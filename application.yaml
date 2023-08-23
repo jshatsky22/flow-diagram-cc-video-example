@@ -1,0 +1,40 @@
+created: 2023-08-22T15:16:11.376Z
+creator:
+  id: b7f6076a-3da9-4836-b31f-4c3bdfa6ec33
+  name: Jesse Shatsky
+deletedAt: null
+deployedAt: null
+deployedCommitId: null
+folderId: 4fefba06-24c0-4001-8a06-71e77f0542e4
+id: 6bd8d7c6-4f9d-4921-8114-1e6809d6be33
+isDeployed: false
+isEditable: true
+isPublic: false
+name: React Flow Diagram
+organizationId: 71b53980-0a9d-45dc-a4e8-5efd62ebfb1f
+pages:
+  - id: af778518-ce13-4f7d-bc80-ca4c6d414726
+    isDefault: true
+settings:
+  profiles:
+    deployed:
+      availableProfileIds:
+        - 431d2084-be9f-46c4-b44e-8632bb72084d
+        - bedc7639-78d3-4b13-ad79-5fc86dfc94d5
+      defaultProfileId: 431d2084-be9f-46c4-b44e-8632bb72084d
+    editor:
+      availableProfileIds:
+        - 431d2084-be9f-46c4-b44e-8632bb72084d
+        - bedc7639-78d3-4b13-ad79-5fc86dfc94d5
+      defaultProfileId: bedc7639-78d3-4b13-ad79-5fc86dfc94d5
+    preview:
+      availableProfileIds:
+        - 431d2084-be9f-46c4-b44e-8632bb72084d
+        - bedc7639-78d3-4b13-ad79-5fc86dfc94d5
+      defaultProfileId: bedc7639-78d3-4b13-ad79-5fc86dfc94d5
+updated: 2023-08-22T15:16:33.641Z
+userPermissions:
+  - manage:applications
+  - read:applications
+  - publish:applications
+  - makePublic:applications
